@@ -1,6 +1,6 @@
 ---
 applications:
-- name: yugastore-test
+- name: yugastore
   memory: 1024M
   instances: 1
   random-route: false
