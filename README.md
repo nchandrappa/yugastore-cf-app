@@ -40,7 +40,7 @@ git clone https://github.com/Pivotal-Field-Engineering/yugastore-cf-app
 ```
 {
 "DB_HOST_CASSANDRA": "",
-"DB_HOST_REDIS": "=",
+"DB_HOST_REDIS": "",
 "APP_HOST": "localhost",
 "APP_PORT": "3001"
 }
