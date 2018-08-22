@@ -1,0 +1,6 @@
+---
+applications:
+- name: yugastore-test
+  memory: 1024M
+  instances: 1
+  random-route: false

@@ -1,0 +1,6 @@
+{
+  "DB_HOST_CASSANDRA": "35.237.91.163",
+  "DB_HOST_REDIS": "35.229.44.120",
+  "APP_HOST": "localhost",
+  "APP_PORT": "3001"
+}
